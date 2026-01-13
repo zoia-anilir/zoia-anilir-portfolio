@@ -106,7 +106,7 @@ export function ProjectsSection() {
                   <Button
                     variant="outline"
                     size="sm"
-                    className="min-w-[120px] gap-2 bg-transparent hover:bg-[#00ff88] hover:text-black hover:shadow-[0_0_20px_rgba(0,255,136,0.5)] hover:scale-105 transition-all"
+                    className="min-w-[120px] gap-2 border-white/20 bg-transparent text-white hover:!bg-[#00ff88] hover:!text-black hover:!border-[#00ff88] hover:shadow-[0_0_20px_rgba(0,255,136,0.5)] hover:scale-105 transition-all"
                     asChild
                   >
                     <a href={project.github} target="_blank" rel="noopener noreferrer">
