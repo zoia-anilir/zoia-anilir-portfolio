@@ -127,12 +127,12 @@ export function ContactSection() {
                 <div>
                   <h3 className="font-semibold text-foreground">GitHub</h3>
                   <a
-                    href="https://github.com/CrystalGalaxy777"
+                    href="https://github.com/zoia-anilir"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm text-gray-300 hover:text-[#00B7FF] transition-colors"
                   >
-                    github.com/CrystalGalaxy777
+                    github.com/zoia-anilir
                   </a>
                 </div>
               </div>
